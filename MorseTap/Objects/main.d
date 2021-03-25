@@ -1,0 +1,12 @@
+./objects/main.o: main.c frdm_bsp.h \
+  E:\Users\Maciek\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL05Z4.h \
+  E:\Users\Maciek\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h \
+  E:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  E:\Users\Maciek\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h \
+  E:\Users\Maciek\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h \
+  E:\Users\Maciek\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armclang.h \
+  E:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  E:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  E:\Users\Maciek\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\system_MKL05Z4.h \
+  led.h uart.h E:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdio.h i2c.h \
+  E:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h mma8451q.h convert.h
